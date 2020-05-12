@@ -26,6 +26,7 @@ def third_challenge
          age: "51"
        },
        heroine: {
+         name: "Juliet",
          
        },
        heroine_friends: []

@@ -15,7 +15,10 @@ def fourth_challenge
          status: "alive"
        },
        hero_friends: [
-         
+         {
+           
+         },
+         {}
          ]
      },
      capulet: {
